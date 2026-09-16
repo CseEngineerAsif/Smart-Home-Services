@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Smart Home Service Automation",
+  "description": "A smart home service request, AI analysis, intelligent provider matching, scheduling, and real-time tracking application for hackathons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
